@@ -1,2 +1,2 @@
 # Folder_comparison_and_copy
-This will change one folder to be an exact copy of another folder. This will not simply delete and then copy over the entire folder, it keeps any files already in both folders and adds/deletes folders as needed. This is extremely efficient for keeping archives and updating them over time
+This will change one folder to be an exact copy of another folder. This will not simply delete and then copy over the entire folder, it keeps any files already downloaded and adds/deletes as needed. This is extremely efficient for keeping archives and updating them over time. I personally use this to update an external hard drive, where I keep the majority of my computer files backed up
